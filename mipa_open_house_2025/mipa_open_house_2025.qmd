@@ -1,0 +1,43 @@
+---
+title: "MIPA Open House 2025"
+subtitle: "Departemen Matematika"
+author: "Tim Asisten Laboratorium Praktikum"
+toc: false
+format: html
+---
+
+<a href="../../../../semuahalaman/praktikum.qmd" class="btn btn-outline-primary mb-4">
+<i class="fa-solid fa-arrow-left"></i> Kembali ke Arsip Praktikum
+</a>
+
+::: {.panel-tabset}
+
+## Daftar Modul
+
+::: {.grid .gap-4}
+
+::: {.g-col-12 .g-col-md-6}
+<div class="card p-4 shadow-sm">
+<h3><b>Modul Matematika Dasar (Geogebra)</b></h3>
+<p>
+<i class="fa-solid fa-calendar-days"></i><br>
+<i class="fa-solid fa-location-dot"></i> <b>Lokasi:</b> Lab Komputer D.311<br>
+<i class="fa-solid fa-book"></i> <b>Materi:</b> <a href="./sesi1.qmd">Buka Modul Geogebra</a>
+</p>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+<div class="card p-4 shadow-sm">
+<h3><b>Modul Algoritma dan Pemrograman (Python)</b></h3>
+<p>
+<i class="fa-solid fa-calendar-days"></i><br>
+<i class="fa-solid fa-location-dot"></i> <b>Lokasi:</b> Lab Komputer D.311<br>
+<i class="fa-solid fa-book"></i> <b>Materi:</b> <a href="./sesi2.ipynb">Buka Modul Python</a>
+</p>
+</div>
+:::
+
+:::
+
+:::
